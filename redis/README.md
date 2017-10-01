@@ -32,4 +32,4 @@ redis-cli shutdown           #关闭redis服务
   B.使用这个PHP类库的时候就不用redis的PHP扩展：https://github.com/nrk/predis (这个主要是不知道有些什么方法，以及怎么用)
 </pre>
 
-2. Redis GUI 管理工具 : https://protonail.com/keylord/download`
+2. Redis GUI 管理工具 : https://protonail.com/keylord/download
