@@ -1,1 +1,1 @@
-# cache
+*对memcache和redis两个常用缓存服务相关资料的收集整理*
