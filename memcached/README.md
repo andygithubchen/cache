@@ -20,13 +20,12 @@
 <pre>
 PHP 有两个 Memcached 客户端：“<b>PHP Memcache 扩展</b>” 和 “<b>PHP Memcached 扩展</b>”，这就是是我们搞混的地方。
 
-<b>PHP Memcache 扩展</b> 用PHP 实现的，支持面向对象和面向过程两种接口，2004年就实现了，是老客户端，而且功能少，属性也可设置的少。
-函数列表：http://php.net/manual/zh/book.memcache.php
+<b>PHP Memcache 扩展</b> 用PHP 实现的，支持面向对象和面向过程两种接口，2004年就实现了，是老客户端，而且功能少，属性
+也可设置的少。函数列表：http://php.net/manual/zh/book.memcache.php
 
 <b>PHP Memcached 扩展</b> 基于 libmemcached 开发的，使用 libmemcached 库提供的 API 与 Memcached 服务进行交互，
 只支持面向对象的接口， 2009年才实现，Memcached 扩展功能更加完善，支持的函数更多，比如支持批量操作，现在一般建
-议使用 Memcached 扩展。
-函数列表：http://php.net/manual/zh/book.memcached.php
+议使用 Memcached 扩展。 函数列表：http://php.net/manual/zh/book.memcached.php
 </pre>
 
 
